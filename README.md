@@ -16,6 +16,6 @@ You migth check for the screenshots inside src/sshot, the files had a format lik
 
 Also there is a csv file that tracks the time spend in a proyect in minutes(10min blocks)
 
-![Alt text](/csv.png?raw=true "csv example")")]
+![Alt text](/csv.png?raw=true "csv example")
  
 
