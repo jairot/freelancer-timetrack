@@ -10,7 +10,7 @@ This app Takes an screenshot randomly every 10 minutes and store a log of data i
 
 To start the time traking you should run freelancertt inside src/:
 
-    python freelancertt.py "The Super Proyect"
+    python freelancertt.py "The Super Project"
 
 You migth check for the screenshots inside src/sshot, the files had a format like 2014-07-07-170249.the super proyect.png.
 
